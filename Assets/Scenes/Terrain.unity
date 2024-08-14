@@ -7655,7 +7655,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   mainCamera: {fileID: 1261898139}
   secondCamera: {fileID: 2021401264}
-  switchTime: 1
+  switchTime: 20
 --- !u!4 &1097707297
 Transform:
   m_ObjectHideFlags: 0
